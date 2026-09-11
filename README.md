@@ -1,5 +1,7 @@
 # Google Maps Business Extractor — Apify Actor usage guide
 
+[![Run for free on Apify](https://img.shields.io/badge/Apify-Run%20it%20free%20%E2%80%94%20%245%2Fmo%20credit-24C1E0)](https://console.apify.com/sign-up?fpr=aupara)
+
 Scrape Google Maps by keyword or URL. Extract business name, address, phone, website, rating, review count, opening hours & GPS coordinates. Supports bulk queries, residential proxy and direct place URLs. Export to JSON, CSV or Excel.
 
 > **This repository does not contain the Actor's source code.** The Actor

@@ -25,11 +25,11 @@ RUN_INPUT = {
     "startUrls": [],
     "maxCrawledPlaces": 3,
     "language": "en",
-    "includeOpeningHours": true,
-    "includeReviews": false,
+    "includeOpeningHours": True,
+    "includeReviews": False,
     "maxReviews": 5,
     "proxyConfiguration": {
-        "useApifyProxy": true
+        "useApifyProxy": True
     }
 }
 
